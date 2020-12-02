@@ -1,0 +1,28 @@
+body {
+	background-color:#D3D3D3
+}
+
+h1{
+	text-align:center
+}
+
+h3{
+	text-align:center
+}
+
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
+
+img{
+	border-radius: 8px;
+	padding: 5px;
+    width: 300px;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
